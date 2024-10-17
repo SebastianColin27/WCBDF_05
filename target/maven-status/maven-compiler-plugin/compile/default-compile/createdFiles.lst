@@ -1,0 +1,5 @@
+com\upiiz\customers\models\Customer.class
+com\upiiz\customers\controllers\CustomersController.class
+com\upiiz\customers\CustomersApplication.class
+com\upiiz\customers\repository\CustomersRepository.class
+com\upiiz\customers\services\CustomersServices.class
